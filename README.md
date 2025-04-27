@@ -1,69 +1,89 @@
-<HEAD> ## Asha AI </HEAD>
 
-## Project info
 
-**URL**: 
+# 🌟 ASHA AI
 
-## How can I edit this code?
+## 📋 Project Info
 
-There are several ways of editing your application.
+**URL**: *(Add your deployed app link here)*
 
-**Use your preferred IDE**
+Asha AI is a web application designed to provide empathetic, AI-powered support across various life topics like Career, Entrepreneurship, Finance, Rights, Wellness, and Motivation. Users interact through a chatbot that fetches curated knowledge or AI-generated responses, helping them with guidance, resources, and action steps.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ How Can I Edit This Code?
 
-Follow these steps:
+You have several ways to work on the project:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 1. Use Your Preferred IDE (Local Development)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+If you prefer working locally:
 
-# Step 3: Install the necessary dependencies.
-npm i
+1. **Clone the repository**  
+    ```bash
+    git clone <YOUR_GIT_URL>
+    ```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+2. **Navigate to the project directory**  
+    ```bash
+    cd <YOUR_PROJECT_NAME>
+    ```
 
-# Step 5: Add your Gemini AI API in "Geminiservice.ts"
+3. **Install dependencies**  
+    ```bash
+    npm install
+    ```
 
-```
+4. **Start the development server**  
+    ```bash
+    npm run dev
+    ```
 
-**Edit a file directly in GitHub**
+5. **Add your Gemini AI API key**  
+    Edit the file: `services/GeminiService.ts`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+### 2. Edit Directly on GitHub
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Navigate to the file you want to edit.
+- Click the ✏️ "Edit" button at the top-right.
+- Make your changes and commit them.
 
-## What technologies are used for this project?
+---
+
+### 3. Use GitHub Codespaces
+
+- Go to your repository’s main page.
+- Click on the **Code** button ➔ **Codespaces** tab.
+- Click **New Codespace** to instantly launch a development environment.
+- Edit, preview, and push changes right from your browser.
+
+---
+
+## 🚀 Tech Stack
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- [Vite](https://vitejs.dev/) — Fast development build tool
+- [TypeScript](https://www.typescriptlang.org/) — Type-safe JavaScript
+- [React](https://react.dev/) — Frontend framework
+- [shadcn/ui](https://ui.shadcn.dev/) — UI Components
+- [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework
 
-## How can I deploy this project?
+---
 
-Please refer to the project's documentation for deployment instructions.
+## 🌍 Deployment
 
-## Can I connect a custom domain to my project?
+Please refer to the project's detailed documentation for deployment instructions. *(You can also use services like Vercel, Netlify, or your custom hosting setup.)*
 
-Please refer to the project's documentation for instructions on connecting a custom domain.
-=======
-# Asha-AI
->>>>>>> 50a7229265ab83876e6aabcc90ad92a5853521ee
+---
+
+## 🌐 Custom Domain
+
+Yes, you can connect a custom domain to your deployed project.  
+Refer to the hosting platform’s documentation (e.g., Vercel, Netlify) for step-by-step domain setup instructions.
+
+---
+
+# ✨ Let's build a more empathetic AI world with Asha AI!
+
