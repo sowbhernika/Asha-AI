@@ -1,4 +1,4 @@
-<<<<<<<head> Asha AI
+<<<<<<<HEAD> Asha AI
 
 ## Project info
 
