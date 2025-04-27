@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Savvy Women AI Guide
+Asha AI
 
 ## Project info
 
