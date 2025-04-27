@@ -1,4 +1,4 @@
-export const GEMINI_API_KEY = "AIzaSyAEEFhVDNySKHOoyWhRILW_gMdATJOiHlM";
+export const GEMINI_API_KEY = "";
 
 interface GeminiMessage {
   role: 'user' | 'model';
