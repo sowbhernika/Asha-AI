@@ -4,7 +4,6 @@
 
 ## 📋 Project Info
 
-**URL**: *(Add your deployed app link here)*
 
 Asha AI is a web application designed to provide empathetic, AI-powered support across various life topics like Career, Entrepreneurship, Finance, Rights, Wellness, and Motivation. Users interact through a chatbot that fetches curated knowledge or AI-generated responses, helping them with guidance, resources, and action steps.
 
