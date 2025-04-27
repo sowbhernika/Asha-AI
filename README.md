@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Savvy Women AI Guide
 
 ## Project info
@@ -61,3 +62,6 @@ Please refer to the project's documentation for deployment instructions.
 ## Can I connect a custom domain to my project?
 
 Please refer to the project's documentation for instructions on connecting a custom domain.
+=======
+# Asha-AI
+>>>>>>> 50a7229265ab83876e6aabcc90ad92a5853521ee
