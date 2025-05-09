@@ -1,88 +1,73 @@
+# Welcome to your Lovable project
 
+## Project info
 
-# 🌟 ASHA AI
+**URL**: https://lovable.dev/projects/6016e2ca-6537-490b-b6d0-bc04ba213e58
 
-## 📋 Project Info
+## How can I edit this code?
 
+There are several ways of editing your application.
 
-Asha AI is a web application designed to provide empathetic, AI-powered support across various life topics like Career, Entrepreneurship, Finance, Rights, Wellness, and Motivation. Users interact through a chatbot that fetches curated knowledge or AI-generated responses, helping them with guidance, resources, and action steps.
+**Use Lovable**
 
----
+Simply visit the [Lovable Project](https://lovable.dev/projects/6016e2ca-6537-490b-b6d0-bc04ba213e58) and start prompting.
 
-## 🛠️ How Can I Edit This Code?
+Changes made via Lovable will be committed automatically to this repo.
 
-You have several ways to work on the project:
+**Use your preferred IDE**
 
-### 1. Use Your Preferred IDE (Local Development)
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-If you prefer working locally:
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-1. **Clone the repository**  
-    ```bash
-    git clone <YOUR_GIT_URL>
-    ```
+Follow these steps:
 
-2. **Navigate to the project directory**  
-    ```bash
-    cd <YOUR_PROJECT_NAME>
-    ```
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-3. **Install dependencies**  
-    ```bash
-    npm install
-    ```
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-4. **Start the development server**  
-    ```bash
-    npm run dev
-    ```
+# Step 3: Install the necessary dependencies.
+npm i
 
-5. **Add your Gemini AI API key**  
-    Edit the file: `services/GeminiService.ts`
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
----
+**Edit a file directly in GitHub**
 
-### 2. Edit Directly on GitHub
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-- Navigate to the file you want to edit.
-- Click the ✏️ "Edit" button at the top-right.
-- Make your changes and commit them.
+**Use GitHub Codespaces**
 
----
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-### 3. Use GitHub Codespaces
-
-- Go to your repository’s main page.
-- Click on the **Code** button ➔ **Codespaces** tab.
-- Click **New Codespace** to instantly launch a development environment.
-- Edit, preview, and push changes right from your browser.
-
----
-
-## 🚀 Tech Stack
+## What technologies are used for this project?
 
 This project is built with:
 
-- [Vite](https://vitejs.dev/) — Fast development build tool
-- [TypeScript](https://www.typescriptlang.org/) — Type-safe JavaScript
-- [React](https://react.dev/) — Frontend framework
-- [shadcn/ui](https://ui.shadcn.dev/) — UI Components
-- [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
----
+## How can I deploy this project?
 
-## 🌍 Deployment
+Simply open [Lovable](https://lovable.dev/projects/6016e2ca-6537-490b-b6d0-bc04ba213e58) and click on Share -> Publish.
 
-Please refer to the project's detailed documentation for deployment instructions. *(You can also use services like Vercel, Netlify, or your custom hosting setup.)*
+## Can I connect a custom domain to my Lovable project?
 
----
+Yes, you can!
 
-## 🌐 Custom Domain
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Yes, you can connect a custom domain to your deployed project.  
-Refer to the hosting platform’s documentation (e.g., Vercel, Netlify) for step-by-step domain setup instructions.
-
----
-
-# ✨ Let's build a more empathetic AI world with Asha AI!
-
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
